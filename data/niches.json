@@ -1,22 +1,22 @@
 {
     "domain": "furniture.gggpick.com",
     "categories": [
-        "기저귀/위생",
-        "수유/이유식",
-        "심신안정/수면"
+        "침실 가구",
+        "거실 가구",
+        "서재 및 사무"
     ],
     "category_details": {
-        "기저귀/위생": {
-            "topic": "Diaper bags, wet wipe cases, diaper disposal bins.",
-            "role": "Parenting essential guide recommending top-rated Coupang furniture items."
+        "침실 가구": {
+            "topic": "Bed frames, mattresses, nightstands.",
+            "role": "Bedroom furniture expert."
         },
-        "수유/이유식": {
-            "topic": "furniture bottle sterilizers, furniture food makers, high chairs.",
-            "role": "Infant nutrition marketing expert providing premium childcare product comparisons."
+        "거실 가구": {
+            "topic": "Sofas, TV stands, coffee tables.",
+            "role": "Living room curator."
         },
-        "심신안정/수면": {
-            "topic": "Pacifiers, bouncers, sleep sound machines.",
-            "role": "Sleep training specialist selecting products with high-rated real reviews from parents."
+        "서재 및 사무": {
+            "topic": "Office desks, ergonomic chairs, bookshelves.",
+            "role": "Workspace interior guide."
         }
     }
 }
