@@ -5,7 +5,7 @@
 # 1. 사이트 기본 식별 정보
 baseURL = 'https://furniture.gggpick.com/'
 languageCode = 'ko-kr'
-title = 'GGG Pick furniture'
+title = 'GGG Pick 가구'
 
 [params]
   # 2. 쿠팡 파트너스 전용 데이터
@@ -16,7 +16,7 @@ title = 'GGG Pick furniture'
   homepage_sections = ["posts"]
   
   # 3. 사이트 설명 및 브랜딩
-  description = 'furniture 관련 전문가 리뷰와 쿠팡 최저가 완벽 가이드.'
+  description = '침실 가구, 거실 가구, 서재 및 사무 가구 등 인테리어와 수납을 위한 쿠팡 로켓배송 특가 가구 추천 및 리뷰.'
   brandColor = "#1a1c2c"
 
   # (공통) 애드센스 정보 및 메타 데이터
@@ -25,7 +25,7 @@ title = 'GGG Pick furniture'
   env = 'production'
 
   # 🚨 사이트 식별 정보
-  sitename = "GGG Pick furniture"
+  sitename = "GGG Pick 가구"
   siteurl = "https://furniture.gggpick.com"
   startdate = "2026-03-31"
   contactemail = "contact@gggpick.com"
